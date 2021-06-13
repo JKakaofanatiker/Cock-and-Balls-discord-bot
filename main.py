@@ -16,7 +16,7 @@ async def on_message(message):
 
     if message.content.startswith('cock and balls'):
         await message.channel.send('╰⋃╯')
-        print("simdutz sent!")
+        print("cock sent")
 
     if message.content.startswith('femboy'):
         await message.channel.send('╰⋃╯')
