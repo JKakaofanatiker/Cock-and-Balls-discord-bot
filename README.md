@@ -1,4 +1,4 @@
-# Cock-and-Balls-bot
+# Cock-and-Balls-discord-bot
 Yeah, i dont have a life
 
 
