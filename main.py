@@ -21,4 +21,4 @@ async def on_message(message):
     if message.content.startswith('femboy'):
         await message.channel.send('╰⋃╯')
 
-client.run('ODUzNjgwNzIzMjgwOTIwNjI2.YMY6IQ.1bzKvplIhPTi25WgGKq5c3jBZ6E')
+client.run('Enter token here')
