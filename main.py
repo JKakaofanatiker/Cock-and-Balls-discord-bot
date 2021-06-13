@@ -7,7 +7,7 @@ client = discord.Client()
 @client.event
 async def on_ready():
     print('We have logged in as {0.user}'.format(client))
-    await client.change_presence(activity=discord.Game(name="mit astolfo"))
+    await client.change_presence(activity=discord.Game(name="with your cock"))
 
 @client.event
 async def on_message(message):
@@ -15,10 +15,10 @@ async def on_message(message):
         return
 
     if message.content.startswith('cock and balls'):
-        await message.channel.send('╰⋃╯')
-        print("cock sent")
+        await message.channel.send('8====D')
+        print("simdutz sent!")
 
-    if message.content.startswith('femboy'):
-        await message.channel.send('╰⋃╯')
+    if message.content.startswith('Cock and Balls'):
+        await message.channel.send('8====D')
 
-client.run('Enter token here')
+client.run('ODUzNjgwNzIzMjgwOTIwNjI2.YMY6IQ.pP9V1MAZan5mqHc7esk9iD-ppD0')
