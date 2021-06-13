@@ -1,2 +1,5 @@
 # Cock-and-Balls-bot
 Yeah, i dont have a life
+
+
+Based on the Chickennugget Bot from JKakaofanatiker, this discord bot automatically sends a emoji of a dick, when someones write in the chat cock and balls. I have school tomorrow und unfinished homework. Why am i doing this
