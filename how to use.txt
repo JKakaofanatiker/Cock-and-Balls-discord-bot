@@ -1,0 +1,13 @@
+i dont think i need to tell you how to make a discord bot. But if you dont know it, go on this website: https://realpython.com/how-to-make-a-discord-bot-python/
+
+The cmd and the sh is for starting the bot. CMD for windows, and sh for Linux and MacOS. I cant test it on mac, because i dont have money. Please dont hate me. If theres any problems, contact me on my email futud@protonmail.com
+
+What do i need?
+
+You need obviously python. Download python for windows and macos here
+https://www.python.org/
+
+For Linux, please look up for yourself how to install it in your package manager.
+
+You also need discord.py. If you have python, start a terminal und type in python -m pip install -U discord.py.
+
