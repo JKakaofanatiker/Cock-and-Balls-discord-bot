@@ -20,5 +20,6 @@ async def on_message(message):
 
     if message.content.startswith('Cock and Balls'):
         await message.channel.send('8====D')
+        print("dick sent!")
 
 client.run('enter your token here')
